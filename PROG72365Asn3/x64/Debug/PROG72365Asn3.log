@@ -1,0 +1,5 @@
+﻿  bst.c
+  main.c
+C:\Users\thomas\source\repos\PROG72365Asn3\PROG72365Asn3\main.c(8,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  PROG72365Asn3.vcxproj -> C:\Users\thomas\source\repos\PROG72365Asn3\x64\Debug\PROG72365Asn3.exe
